@@ -1,6 +1,6 @@
 # 🌟 Chatbot en Arabe pour le Machine Learning 🌟
 
----
+---  
 
 ## Table des matières
 
