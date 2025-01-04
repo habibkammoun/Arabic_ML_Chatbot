@@ -188,14 +188,14 @@ Pour une évaluation plus pertinente, nous avons choisi d'adopter la **métrique
 
 #### Table des résultats
 
-| **Question** | **Modèle**   | **Score Final** | **Cohérence Sémantique** | **Couverture de Domaine** |
-|--------------|--------------|-----------------|--------------------------|---------------------------|
-| **1**        | LLaMA        | 0.3163          | 0.8001                   | 0.0000                    |
-|              | Mistral7B    | 0.3662          | 0.8205                   | 0.0000                    |
-| **2**        | LLaMA        | 0.3225          | 0.8749                   | 0.0000                    |
-|              | Mistral7B    | 0.3461          | 0.8538                   | 0.0000                    |
-| **3**        | LLaMA        | 0.3425          | 0.7832                   | 0.2500                    |
-|              | Mistral7B    | 0.3900          | 0.9289                   | 0.2500                    |
+| **Question** | **Model**   | **Final Score** | **Semantic Coherence** | **Domain Coverage** |
+|--------------|-------------|-----------------|------------------------|-------------------|
+| **1**        | LLaMA       | 0.3788          | 0.8449                 | 0.0000            |
+|              | Mistral7B   | 0.3662          | 0.8205                 | 0.0000            |
+| **2**        | LLaMA       | 0.3798          | 0.9058                 | 0.0000            |
+|              | Mistral7B   | 0.3461          | 0.8538                 | 0.0000            |
+| **3**        | LLaMA       | 0.5015          | 0.9201                 | 0.5000            |
+|              | Mistral7B   | 0.3900          | 0.9289                 | 0.5000            |
 
 ---
 
